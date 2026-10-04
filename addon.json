@@ -1,0 +1,12 @@
+{
+  "title": "AI Citizen NPC",
+  "type": "npc",
+  "tags": [
+    "roleplay",
+    "fun"
+  ],
+  "ignore": [
+    "README.md",
+    "CODE_REVIEW.md"
+  ]
+}
